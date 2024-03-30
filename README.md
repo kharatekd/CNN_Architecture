@@ -1,1 +1,1 @@
-# CNN_Architecture
+# CNN_Architecture_Classification
